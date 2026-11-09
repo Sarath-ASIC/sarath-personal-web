@@ -50,4 +50,4 @@ export const nav = [
   { href: "/skills", label: "Skills" },
   { href: "/education", label: "Education" },
   { href: "/contact", label: "Contact" },
-] as const;
+] as const; 
